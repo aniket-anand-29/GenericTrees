@@ -1,3 +1,3 @@
 # TREES
 
-# Basics of Tree data structure and some functions relatd to it.
+# Basics of Tree data structure and some functions related to it.
